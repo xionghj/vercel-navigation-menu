@@ -2,6 +2,8 @@
 
 Vue3 + motion-vue vercel-navigation-menu.
 
+![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/LucasReinaldo/vercel-navigation-menu/blob/main/src/assets/animation.gif](https://github.com/xionghj/vercel-navigation-menu/blob/main/src/assets/animation.gif)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
